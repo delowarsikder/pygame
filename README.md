@@ -1,6 +1,6 @@
 # pygame 
 ## This following topics have done 
-* <a href="object moveing"> object moveing</a>
+* <a href="moveObject"> object moveing</a>
 * <a href="DrawGeometry"> DrawGeometry</a>
 * <a href="Tankgame">Tankgame</a> Console based firing game
 * <a href="userInput"> userInput</a> Control object using mouse and keyboard input
